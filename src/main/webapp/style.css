@@ -1,0 +1,23 @@
+.stat-container {
+    margin-left: 15px;
+    position: absolute;
+    top: 30px;
+    display: inline-block;
+}
+.demo-container {
+    background: rgba(0, 0, 0, 0) linear-gradient(#f6f6f6 0px, #fff 50px) repeat scroll 0 0;
+    border: 1px solid #ddd;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    height: 450px;
+    margin: 15px auto 30px;
+    padding: 20px 15px 15px;
+    width: 650px;
+    display: inline-block;
+}
+#placeholder {
+    font-size: 14px;
+    height: 100%;
+    line-height: 1.2em;
+    width: 100%;
+}
